@@ -45,7 +45,7 @@
                     <td>{{ product.category }}</td>
                     <td>{{ product.available }}</td>
                     <td>
-                        <input type="button" value="Buy" (click)="onBuy($event)"/>
+                        <input type="button" value="Buy" (click)="onBuy($event)"  [disabled]="!product.available"/>
                     </td>
                 </tr>
                 </tbody>
