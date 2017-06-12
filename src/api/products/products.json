@@ -1,0 +1,52 @@
+﻿[
+  {
+    "available": true,
+    "category": "PaleAle",
+    "country": "Бельгія",
+    "description": "The Musketeers, \"Troubadour\" Imperial Stout, 0.33 л",
+    "imageUrl": "https://tsypa.com.ua/media/zoo/images/golden_2fd413580445cfbc1037474d30ec3095.png",
+    "price": 115,
+    "productId": 1,
+    "productName": "The Musketeers, \"Troubadour\" Imperial Stout, 0.33 л"
+  },
+  {
+    "available": true,
+    "category": "PaleAle",
+    "country": "Шотландія",
+    "description": "BrewDog, \"Five AM Saint\", 0.33 л",
+    "imageUrl": "https://tsypa.com.ua/media/zoo/images/milk_b0da201384b29720b62cb814dde5a842.png",
+    "price": 70,
+    "productId": 2,
+    "productName": "BrewDog, \"Five AM Saint\", 0.33 л"
+  },
+  {
+    "available": true,
+    "category": "Lager",
+    "country": "Данія",
+    "description": "Mikkeller, \"Amass\" IPA, 0.33 л",
+    "imageUrl": "https://tsypa.com.ua/media/zoo/images/samotnya_1_40cc96c8cfe9146bcc61401d7db51223.png",
+    "price": 164,
+    "productId": 3,
+    "productName": "Mikkeller, \"Amass\" IPA, 0.33 л"
+  },
+  {
+    "available": true,
+    "category": "PaleAle",
+    "country": "Сербія",
+    "description": "Kabinet, Porter, 0.33 л",
+    "imageUrl": "https://tsypa.com.ua/media/zoo/images/smereka_1_0e5a34c596a32ca68c565d8e7f435431.png",
+    "price": 90,
+    "productId": 4,
+    "productName": "Kabinet, Porter, 0.33 л"
+  },
+  {
+    "available": false,
+    "category": "PaleAle",
+    "country": "Велика Британія",
+    "description": "\"Cornish Orchards\" Alcoholic Ginger Beer, 0.5 л.",
+    "imageUrl": "https://tsypa.com.ua/media/zoo/images/white_d497cdb5b09293a270940f9110c67948.png",
+    "price": 170,
+    "productId": 5,
+    "productName": "\"Cornish Orchards\" Alcoholic Ginger Beer, 0.5 л."
+  }
+]
